@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "a516",
+      "cityName": "Tirana",
+      "country": "Albania",
+      "emoji": "🇦🇱",
+      "date": "2024-02-03T22:22:52.831Z",
+      "notes": "",
+      "position": {
+        "lat": "41.290169155259726",
+        "lng": "19.913125475396154"
+      }
+    },
+    {
+      "id": "d723",
+      "cityName": "Sourdeval",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-02-26T22:01:14.302Z",
+      "notes": "",
+      "position": {
+        "lat": "48.71800765331497",
+        "lng": "-0.9227918713221396"
+      }
+    }
+  ]
+}
